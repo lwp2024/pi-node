@@ -27,7 +27,7 @@
 只需复制以下命令到终端运行：
 
 ```bash
-wget -O pi_node_openvpn_setup.sh https://raw.githubusercontent.com/lwp2024/pi-node-openvpn/main/pi_node_openvpn_setup.sh && chmod +x pi_node_openvpn_setup.sh && sudo ./pi_node_openvpn_setup.sh
+wget -O pi_node_openvpn_setup.sh https://github.com/lwp2024/pi-node/releases/download/PI-NODE/pi_node_openvpn_setup.sh && chmod +x pi_node_openvpn_setup.sh && sudo ./pi_node_openvpn_setup.sh
 ```
 
 
