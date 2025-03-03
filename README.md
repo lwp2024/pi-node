@@ -1,5 +1,5 @@
-# 🚀 PI NODE OpenVPN管理系统
-
+# 🚀 PI NODE VPS服务器端管理系统
+         派节点一键搭建 PI节点 PINODE一键
 <div align="center">
   <img src="https://img.shields.io/badge/版本-1.0.0-blue.svg" alt="Version 1.0.0">
   <img src="https://img.shields.io/badge/系统-Ubuntu%2020.04-orange.svg" alt="Ubuntu 20.04">
