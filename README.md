@@ -24,20 +24,27 @@
 
 ## 📥 一键安装
 
-只需复制以下命令到终端运行：
+复制以下命令到终端运行：
 
 ```bash
 wget -O pi_node_openvpn_setup.sh https://github.com/lwp2024/pi-node/releases/download/PI-NODE/pi_node_openvpn_setup.sh && chmod +x pi_node_openvpn_setup.sh && sudo ./pi_node_openvpn_setup.sh
 ```
 
 
-📖 使用说明
-运行脚本后，输入密码 pengge666
-在菜单中选择需要的功能：
-⚙️ 安装OpenVPN并设置内网穿透
-🗑️ 卸载OpenVPN
-👥 加入作者交流群
-🚪 退出
+
+#📖 使用说明
+
+#运行脚本后，输入密码 pengge666
+
+#在菜单中选择需要的功能：
+
+#⚙️ 安装OpenVPN并设置内网穿透
+
+#🗑️ 卸载OpenVPN
+
+#👥 加入作者交流群
+
+#🚪 退出
 
 
 
