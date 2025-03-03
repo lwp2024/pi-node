@@ -28,7 +28,7 @@
 
 ```bash
 wget -O pi_node_openvpn_setup.sh https://raw.githubusercontent.com/lwp2024/pi-node-openvpn/main/pi_node_openvpn_setup.sh && chmod +x pi_node_openvpn_setup.sh && sudo ./pi_node_openvpn_setup.sh
-
+```
 
 
 📖 使用说明
