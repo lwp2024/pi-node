@@ -30,6 +30,17 @@
 wget -O pi_node_openvpn_setup.sh https://raw.githubusercontent.com/lwp2024/pi-node-openvpn/main/pi_node_openvpn_setup.sh && chmod +x pi_node_openvpn_setup.sh && sudo ./pi_node_openvpn_setup.sh
 
 
+
+📖 使用说明
+运行脚本后，输入密码 pengge666
+在菜单中选择需要的功能：
+⚙️ 安装OpenVPN并设置内网穿透
+🗑️ 卸载OpenVPN
+👥 加入作者交流群
+🚪 退出
+
+
+
 ## ⚠️ 注意事项
 
 - 🖥️ 仅支持**Ubuntu 20.04**系统
@@ -49,7 +60,7 @@ wget -O pi_node_openvpn_setup.sh https://raw.githubusercontent.com/lwp2024/pi-no
 
 - **微信**: web3city
 - **交流群**: Web3技术交流群
-- **邮箱**: [contact@example.com](mailto:contact@example.com)
+- **邮箱**: [358555888@qq.com]
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
